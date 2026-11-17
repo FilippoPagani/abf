@@ -1,0 +1,7 @@
+results/
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+*.o
+*.so
